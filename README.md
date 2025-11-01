@@ -1,6 +1,6 @@
 # marketing-multi-regression-project
 Conducted a multiple linear regression analysis on a small business’s marketing data to predict sales using TV, social media, radio, and influencer promotions. Included data cleaning, visualization, model building, assumption testing, and results interpretation.
-# 📊 Multiple Linear Regression on Marketing Promotion Data
+# Multiple Linear Regression on Marketing Promotion Data
 
 ## Project Overview
 This project analyzes a small business's historical marketing promotion data using **Multiple Linear Regression (MLR)** to estimate sales from several marketing channels — **TV**, **radio**, **social media**, and **influencer promotions**.  
