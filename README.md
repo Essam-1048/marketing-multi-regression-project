@@ -1,7 +1,7 @@
 # Multiple Linear Regression on Marketing Promotion Data
 
 ## Project Overview
-This project analyzes a small business's historical marketing promotion data using **Multiple Linear Regression (MLR)** to estimate sales from several marketing channels — **TV**, **radio**, **social media**, and **influencer promotions**.  
+This project analyzes a small business's historical marketing promotion data using **Multiple Linear Regression (MLR)** to estimate sales from several marketing channels **TV**, **radio**, **social media**, and **influencer promotions**.  
 
 The goal is to help the business understand which promotional efforts most strongly influence sales and guide smarter marketing budget allocation.
 
@@ -105,4 +105,4 @@ Saragih, H. S. (2020). *Dummy Marketing and Sales Data.*
 
 ## Author
 **Essam Suliman**  
-Marketing & Data Analysis Student — SEGi College KL  
+Marketing & Data Analysis Student - SEGi College KL  
